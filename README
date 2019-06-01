@@ -1,0 +1,10 @@
+ClasSpdb
+Classification spacial dataset.
+
+Struktura:
+- sql: script for generating nyc_tracts table
+- src: source code
+- test.sh : example of using
+
+Data source:
+https://cantzakas.github.io/postgis-demo/LOAD-NYC-POSTGIS.html
